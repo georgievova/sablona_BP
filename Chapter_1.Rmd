@@ -1,0 +1,7 @@
+# 1.2 Cíle práce
+
+Sed vel metus sagittis turpis molestie semper. Curabitur porta, ligula a faucibus iaculis, nisl lorem lobortis eros, at consectetur justo nisi eu enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur fermentum metus eget nulla semper convallis. Ut tristique gravida massa. In odio enim, hendrerit at tortor a, tempor blandit ipsum. In auctor tempus ante eget auctor. Vestibulum vitae ante a mi condimentum consequat et eu justo. 
+
+## 1.2.1 Metodika
+
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin eu quam magna. Curabitur eget tristique odio, vel ultricies eros. Pellentesque ut sem ipsum. Nunc eget convallis leo. In rhoncus faucibus odio eget aliquam. In quis ullamcorper felis, sit amet convallis nisl. Nam ut metus nec elit pulvinar egestas sed id nibh. Morbi sit amet feugiat sem, in volutpat lacus. Aliquam vel sapien non nisl pharetra tempor.[@teetor2011]
