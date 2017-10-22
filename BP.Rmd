@@ -21,7 +21,11 @@ set.seed(666)
 x <- rnorm(100, 0, 1)
 ```
 
-\input{Tit_list.tex}
+
+<!-- Zmena titulni strany -->
+<!--\input{Tit_list_vse.tex}-->
+\input{Tit_list.tex} 
+<!--  -->
 
 \tableofcontents
 \newpage
